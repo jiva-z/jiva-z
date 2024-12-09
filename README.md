@@ -20,4 +20,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark&hide_border=true&radius=16" width="98%" style="border-radius: 15px;" />
 </div>
 
-![Programmers Badge](https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" style="filter: brightness(0.8);" />
+</div>
