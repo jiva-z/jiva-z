@@ -15,9 +15,12 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jiva-z" width="42%" height="100%"/>
 </div>
 <div>
- <a href="https://github.com/anuraghazra/github-readme-stats">
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=#283048&text_color=#859398&hide_border=False" />
+ <div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustinLib&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
   </a>
 </div>
 </div>
