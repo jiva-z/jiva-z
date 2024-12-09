@@ -30,9 +30,3 @@
   </kbd>
 </div>
 </div>
-
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Level_2-1023점-blue?style=for-the-badge&logo=programmers&logoColor=white"/>
-  </a>
-</div>
