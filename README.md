@@ -9,7 +9,7 @@
 
 <br>
 
-<h2 align="center">⚡  GitHub Stats</h2>
+<h2 align="center">⚡  GitHub Stats ⚡</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="440" />
@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 align="center">🚀 Coding Rank</h2>
+<h2 align="center">🚀 Coding Rank 🚀</h2>
 <div align="center">
   <kbd>
     <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/>
