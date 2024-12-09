@@ -1,29 +1,28 @@
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:83B5FF,100:6FAAFF&height=200&section=header&text=Jiva%20Z&fontSize=70&fontColor=ffffff&animation=fadeIn)
+
   <h2>🛠 Tech Stack 🛠</h2>
   <div style="margin: 15px 0;">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&color=152136"/>&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&color=152136"/>&nbsp;
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white&color=152136"/>
   </div>
-</div>
 
-<br>
+  <h2>⚡ GitHub Stats</h2>
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiva-z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%" />
+  </div>
 
-<h2 align="center">⚡  GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="440" />
-</div>
+  <div style="margin: 20px 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true&radius=6" width="98%" />
+  </div>
 
-<br>
+  <h2>🚀 Coding Rank</h2>
+  <div style="background-color: #0d1117; padding: 20px; border-radius: 16px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">
+    <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg"/>
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=tokyo-night&hide_border=true&radius=8" width="98%" />
-</div>
-
-<br>
-
-<h2 align="center">🚀 Coding Rank</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" style="filter: brightness(0.8);" />
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:83B5FF,100:6FAAFF&height=120&section=footer)
 </div>
