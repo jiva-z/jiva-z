@@ -12,7 +12,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="440" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="440" />
 </div>
 
 <br>
