@@ -1,4 +1,5 @@
 <div align="center">
+  <h3 align="center">✨ Tech Stack ✨</h3>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
