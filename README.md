@@ -33,24 +33,5 @@
 
 <h2 align="center">🚀 Coding Rank</h2>
 <div align="center">
-
-| ![Programmers Rank](https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg) |
-|:---:|
-
-</div>
-
-<h2 align="center">🚀 Coding Rank</h2>
-<div align="center">
-
-|||
-|:-:|:-:|
-|<kbd><img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/></kbd>|
-|||
-
-</div>
-
-<div align="center">
-<kbd><kbd>
-  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/>
-</kbd></kbd>
+  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" style="background-color: #1a1b27; border-radius: 6px; padding: 16px;" width="551px"/>
 </div>
