@@ -1,11 +1,11 @@
 <div align="center">
   <h2>✨ Tech Stack ✨</h2>
   <div style="margin: 10px 0;">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
   </div>
 </div>
 
@@ -18,7 +18,6 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark&hide_border=true&radius=16" width="98%" style="border-radius: 15px;" />
 </div>
