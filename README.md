@@ -35,3 +35,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" style="background-color: #1a1b27; border-radius: 6px; padding: 16px;" width="551px"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg?bg_color=1a1b27&border_radius=6&border_color=2f3142" width="551px"/>
+</div>
