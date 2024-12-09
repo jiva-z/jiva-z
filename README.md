@@ -25,7 +25,7 @@
 
 <h2 align="center">🚀 Coding Rank</h2>
 <div align="center">
-  <div style="background-color: #2c2f33; padding: 30px; border-radius: 15px; margin: 20px auto; width: 580px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <div style="background: linear-gradient(145deg, #3a3d41, #2c2f33); padding: 30px; border-radius: 15px; margin: 20px auto; width: 580px; box-shadow: 0 0 10px rgba(88, 166, 255, 0.3), inset 0 0 20px rgba(0,0,0,0.2); border: 1px solid #58a6ff;">
     <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/>
   </div>
 </div>
