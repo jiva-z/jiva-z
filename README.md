@@ -43,7 +43,14 @@
 <div align="center">
 
 |||
-|:---:|:---:|
-|![Programmers Rank](https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg)||
+|:-:|:-:|
+|<kbd><img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/></kbd>|
+|||
 
+</div>
+
+<div align="center">
+<kbd><kbd>
+  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/>
+</kbd></kbd>
 </div>
