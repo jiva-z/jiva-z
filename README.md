@@ -1,25 +1,24 @@
-<div align="left">
-  <h3 align="left">✨ Tech Stack ✨</h3>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+<div align="center">
+  <h2>✨ Tech Stack ✨</h2>
+  <div style="margin: 10px 0;">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+  </div>
 </div>
 
-<br><br><br>
+<br>
 
-### Statistics
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=holi" width = "49%" height="130%" />
-</div>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=False" />
-  </a>
-</div>
-  </a>
-</div>
+<h2 align="center">📊 Statistics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=holi" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="400" />
 </div>
 
-![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark)
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark&hide_border=true" width="98%" />
+</div>
