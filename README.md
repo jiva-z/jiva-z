@@ -14,7 +14,7 @@
 <h2 align="center">📊 Statistics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=holi" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=true" width="420" />
 </div>
 
 <br>
