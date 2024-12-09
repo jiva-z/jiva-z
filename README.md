@@ -31,11 +31,19 @@
 </div>
 </div>
 
+<h2 align="center">🚀 Coding Rank</h2>
+<div align="center">
+
+| ![Programmers Rank](https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg) |
+|:---:|
+
+</div>
 
 <h2 align="center">🚀 Coding Rank</h2>
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" width="551px"/> |
-|:-----------------------------------------------------------------------------------------------------------:|
+|||
+|:---:|:---:|
+|![Programmers Rank](https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg)||
 
 </div>
