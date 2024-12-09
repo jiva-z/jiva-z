@@ -31,11 +31,8 @@
 </div>
 </div>
 
-<h2 align="center">🚀 Coding Rank</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg" style="background-color: #1a1b27; border-radius: 6px; padding: 16px;" width="551px"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jiva-z/Programmers_Badge_Generator/main/result/result.svg?bg_color=1a1b27&border_radius=6&border_color=2f3142" width="551px"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Level_2-1023점-blue?style=for-the-badge&logo=programmers&logoColor=white"/>
+  </a>
 </div>
