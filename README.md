@@ -15,8 +15,6 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jiva-z" width="42%" height="100%"/>
 </div>
 <div>
-
- <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
@@ -24,3 +22,5 @@
   </a>
 </div>
 </div>
+
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=react-dark)
