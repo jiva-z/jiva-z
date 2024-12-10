@@ -6,6 +6,7 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
 
   </div>
 </div>
