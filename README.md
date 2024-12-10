@@ -16,14 +16,14 @@
 
 <h2 align="center">⚡  GitHub Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiva-z&show_icons=true&theme=dracula" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiva-z&layout=compact&langs_count=10&bg_color=45,654ea3,eaafc8&title_color=ffffff&text_color=ffffff&hide_border=true" width="360" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=tokyo-night&hide_border=true&radius=8" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiva-z&theme=dracula&hide_border=true&radius=8" width="98%" />
 </div>
 
 <br>
