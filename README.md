@@ -3,11 +3,12 @@
   <div style="margin: 15px 0;">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=R&logoColor=white"/>&nbsp;
-
+    <br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white"/>&nbsp;
 
   </div>
 </div>
