@@ -3,14 +3,15 @@
   <div style="margin: 15px 0;">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>&nbsp;
     <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white"/>&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;
     <img src="https://img.shields.io/badge/C-A8B9CC?&style=flat&logo=C&logoColor=white"/>&nbsp;
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white"/>&nbsp;
     <br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>&nbsp;
     <img alt="CSS" src="https://img.shields.io/badge/CSS-663399.svg?&style=flat&logo=CSS&logoColor=white"/>&nbsp;
-    <img alt="NODE.JS" src="https://img.shields.io/badge/NODE.JS-5FA04E.svg?&style=flat&logo=NODE.JS&logoColor=white"/>&nbsp;
     <br>
     <img alt="SPRING" src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=SPRING&logoColor=white"/>&nbsp;
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp;
     <img alt="DOCKER" img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
