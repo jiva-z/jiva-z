@@ -36,6 +36,23 @@ https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
 
 <br/>
 
+### 🌱 네이처 히어로즈(Nature Heroes) 기획
+> **시민 참여형 생태 경험 플랫폼**  
+> <sub>2025.03 / PM & 서비스 기획</sub>
+
+- **한 줄 소개:**
+  게임적 재미와 교육적 가치를 결합해, 시민이 자연과 교감하고 환경 보호에 참여할 수 있는 체험형 생태 플랫폼 기획
+
+- **주요 역할 및 성과:**
+  - **프로젝트 PM 및 서비스 기획 총괄**
+  - 시민참여형 생태 경험 서비스 아이디어 도출 및 핵심 기능 정의
+  - 공공데이터(서울시 야생동식물, 서식지 등) 및 위치 기반 서비스 연계 방안 설계
+  - 게임화(랭킹, 퀴즈, 꾸미기 등) 요소 기획 및 UX 플로우 설계
+  - 교육·공공기관 협력 및 확장성, 사업성 분석
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/be337e61-44b8-465d-8fab-0d8bd92db165" />
+
+<br/>
+
 ### 🏠 [안주: AI 결함 탐지 및 자동 보고서 생성을 통한 노후주택 관리 시스템](https://github.com/HomePPlus/safehouse.git)
 > **AI가 만드는 편안한 안식처 "안주"**  
 > <sub>2025.02 / PL & Tech Lead</sub>
