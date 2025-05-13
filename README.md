@@ -49,7 +49,8 @@ https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
   - 공공데이터(서울시 야생동식물, 서식지 등) 및 위치 기반 서비스 연계 방안 설계
   - 게임화(랭킹, 퀴즈, 꾸미기 등) 요소 기획 및 UX 플로우 설계
   - 교육·공공기관 협력 및 확장성, 사업성 분석
-<img width="587" alt="image" src="https://github.com/user-attachments/assets/be337e61-44b8-465d-8fab-0d8bd92db165" />
+  <br />
+  <img width="587" alt="image" src="https://github.com/user-attachments/assets/be337e61-44b8-465d-8fab-0d8bd92db165" />
 
 <br/>
 
