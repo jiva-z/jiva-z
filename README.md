@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
 <br/>
 
 ### 🌱 네이처 히어로즈(Nature Heroes) 기획
-> **시민 참여형 생태 경험 플랫폼**  
+> **시민 참여형 생태 경험 앱**  
 > <sub>2025.03 / PM & 서비스 기획</sub>
 
 - **한 줄 소개:**
@@ -50,7 +50,6 @@ https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
   - 게임화(랭킹, 퀴즈, 꾸미기 등) 요소 기획 및 UX 플로우 설계
   - 교육·공공기관 협력 및 확장성, 사업성 분석
   <br />
-  <img width="587" alt="image" src="https://github.com/user-attachments/assets/be337e61-44b8-465d-8fab-0d8bd92db165" />
 
 <br/>
 
