@@ -13,7 +13,7 @@
 ## 🚀 주요 프로젝트
 
 
-### 👷 [산재 대체 인력 매칭 AI 플랫폼, 급구당](https://github.com/workerManagers/BE.git)
+### 👷 [산재 대체 인력 매칭 AI 플랫폼, 급구당]([https://github.com/workerManagers/BE.git](https://web-workekmanagers-fe-m9i2iiuc1e546d59.sel4.cloudtype.app/))
 > **AI 기반 실시간 대체 인력 매칭 시스템**  
 > <sub>2025.05 / PM & Full Stack Developer & DevOps</sub>
 
