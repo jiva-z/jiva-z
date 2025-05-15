@@ -30,9 +30,9 @@
     - FastAPI 기반 AI 모델 서버와 Spring Boot 연동을 위한 RESTful API 구축
   - **클라우드 배포**
     - Cloudtype 환경에 Docker 컨테이너 기반 Spring Boot, React, MySQL, FastAPI 배포
-      
-#### 🌐 **Live Demo**
-https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
+        
+  #### 🌐 **Live Demo**
+  https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
 
 <br/>
 
@@ -64,9 +64,9 @@ https://github.com/user-attachments/assets/f27e7487-a738-4820-bd18-cbcdeae5721b
   - JPA 기반 ORM/트랜잭션 관리(데이터 오류·중복 95%↓), 글로벌 예외 처리
   - React 기반 Atomic Design UI, JWT 인증/인가, Protected Route 구현
   - Three.js 등 애니메이션 기반 라이브러리 활용으로 대시보드·보고서 시각화, 사용자 인터랙션을 강화한 프론트엔드 개발
-
-#### 🌐 **Live Demo**
-https://github.com/user-attachments/assets/d4137069-141f-4230-8ec7-24a7c282a0c7
+  
+  #### 🌐 **Live Demo**
+  https://github.com/user-attachments/assets/d4137069-141f-4230-8ec7-24a7c282a0c7
 
 <br/>
 
